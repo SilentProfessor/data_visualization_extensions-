@@ -19,3 +19,20 @@ Openpyxl (for Excel files)
 
 Installation:
 1.Clone the repository
+https://github.com/SilentProfessor/data_visualization_extensions.git
+cd data_visualization_extensions
+
+2.Install required libraries:
+pip install -r requirements.txt
+
+How to Use
+Place your Excel file in the project folder (e.g., data.xlsx)
+
+Run the main script:
+python visualize.py
+
+Columns to visualize
+
+Plot types: line, bar, scatter, heatmap, boxplot
+
+
